@@ -133,6 +133,11 @@ END;
 
 	</tbody>
 </table>
+<?php 
+if (count($weathers) == 0){
+	echo "<h1>There are no records yet. Start Adding!</h1>";
+}
+?>
 </div>
 </body>
 </html>
