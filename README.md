@@ -18,5 +18,7 @@ STYLES FROM TWITTER BOOTSTRAP
 
 TOTAL TIME SPENT
   1 hour for learning php
-  2.5 hours for understanding how to connect the database to the app
+  
+  1 hour for understanding how to connect the database to the app
+  
   1 hour writing the code
