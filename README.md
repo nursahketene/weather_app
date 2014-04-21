@@ -17,6 +17,7 @@ WEATHER INFORMATION FROM YAHOO
 STYLES FROM TWITTER BOOTSTRAP
 
 TOTAL TIME SPENT
+
   1 hour for learning php
   
   1 hour for understanding how to connect the database to the app
